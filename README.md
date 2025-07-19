@@ -1,7 +1,7 @@
-# 👨🏻‍💻 Lucas Souza  
+# 👨🏽‍💻 Lucas Souza - Estagiário Frontend 
 ![Contribuindo](https://img.shields.io/badge/Contribuindo-%23F7B500?style=for-the-badge&logo=github&logoColor=white&color=yellow&label=Contribuindo%20no%20GitHub&labelColor=black)
 
-**`Desenvolvedor | Entusiasta em Dados e Automação`**
+**`Em busca da primeira oportunidade na área de tecnoligía`**
 
 <p align="left">
   <a href="https://github.com/LucasDs99?tab=repositories&sort=stargazers">
